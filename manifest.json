@@ -4,7 +4,7 @@
     "name": "Demo Social Service",
     "iconURL": "/icon.png",
     "workerURL": "/worker.js",
-    "sidebarURL": "/sidebar.htm",
+    "sidebarURL": "/sidebar.htm"
    }
   }
 }
