@@ -20,8 +20,6 @@ Installation
 
     $ npm install
     $ node server.js
-    Static file server running at
-      => http://localhost:8888/
 
 4. Set the SocialAPI provider, also via about:config. It's ok that the provider is named "facebook", the SocialAPI grabs the first pref prefixed with social.manifest. Note that the pref is actually a JSON string.
 
